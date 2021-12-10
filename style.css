@@ -1,0 +1,44 @@
+
+body{
+    background-color: cornflowerblue !important;
+    padding-bottom: 15px;
+}
+h1{
+    padding-right:50px;
+}
+.top{
+    display: flex;
+}
+#image{
+    position: relative !important;
+    left: 1100px !important;
+    width: 500px;
+    height: 300px;
+    bottom: 160px;
+    
+}
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.container{
+    position: relative;
+    height: 300px !important;
+    max-width: 600px !important;
+    top: 60px;
+    left: auto;
+}
+.form-group{
+    margin-bottom: 12px;
+}
+.card{
+    height: 110px;
+    width: 600px;
+    border: 1px solid;
+    margin: 40px auto 0;
+    padding-top: 20px;
+    padding-left: 20px;
+    bottom: 120px;
+    }
+
+
