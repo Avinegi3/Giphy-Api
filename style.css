@@ -12,10 +12,10 @@ h1{
 #image{
     position: relative !important;
     left: 1100px !important;
-    width: 500px;
+    width: 450px;
     height: 300px;
     bottom: 160px;
-    
+    overflow: auto;
 }
 .container-fluid {
     padding-top: 70px;
@@ -44,5 +44,6 @@ h1{
     bottom: 120px;
     box-shadow: 5px 10px 18px #888888;
     }
+
 
 
